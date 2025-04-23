@@ -1,0 +1,9 @@
+# Dev environment
+pip
+autopep8
+
+# App dependencies
+matplotlib
+streamlit
+pandas
+flask
